@@ -10,5 +10,5 @@ Resources are in this folder of the Repo (code, slides and diagrams) and also li
 - Our Slack - `program-quantum.slack.com`
 - Book Author's Github and programming environment - https://oreilly-qc.github.io/
 - Book Author's errata - http://oreilly.com/catalog/0636920167433/errata
-
+- Online simulator : https://oreilly-qc.github.io/
 ---
